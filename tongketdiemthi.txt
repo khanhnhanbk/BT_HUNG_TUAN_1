@@ -1,0 +1,98 @@
+TONG KET
+
+BD1200001
+Pham Hoai Nam
+Diem thi khoi khoa hoc tu nhien: 0
+Diem thi khoi khoa hoc xa hoi: 19
+Diem tong: 30
+
+BD1200002
+Nguyen Cong Phuong
+Diem thi khoi khoa hoc tu nhien: 18.75
+Diem thi khoi khoa hoc xa hoi: 0
+Diem tong: 37.2
+
+BD1200003
+Nguyen Van A
+Diem thi khoi khoa hoc tu nhien: 0
+Diem thi khoi khoa hoc xa hoi: 22.25
+Diem tong: 37.8
+
+BD1200004
+Le Van Duc
+Diem thi khoi khoa hoc tu nhien: 18
+Diem thi khoi khoa hoc xa hoi: 0
+Diem tong: 38.05
+
+BD1200005
+Le Hoai Nhon
+Diem thi khoi khoa hoc tu nhien: 16.75
+Diem thi khoi khoa hoc xa hoi: 0
+Diem tong: 40.25
+
+BD1200006
+Le Anh Duc
+Diem thi khoi khoa hoc tu nhien: 0
+Diem thi khoi khoa hoc xa hoi: 11.75
+Diem tong: 24
+
+BD1200007
+Nguyen Hoai Minh
+Diem thi khoi khoa hoc tu nhien: 17.5
+Diem thi khoi khoa hoc xa hoi: 0
+Diem tong: 35.75
+
+BD1200008
+Le Cong Vinh
+Diem thi khoi khoa hoc tu nhien: 19.25
+Diem thi khoi khoa hoc xa hoi: 0
+Diem tong: 37.25
+
+BD1200009
+Phan Anh Duc
+Diem thi khoi khoa hoc tu nhien: 16
+Diem thi khoi khoa hoc xa hoi: 18
+Diem tong: 49.7
+
+BD1200010
+Pham Thi Thuy Linh
+Diem thi khoi khoa hoc tu nhien: 10.25
+Diem thi khoi khoa hoc xa hoi: 17.5
+Diem tong: 43.75
+
+BD1200011
+Le Anh Hai
+Diem thi khoi khoa hoc tu nhien: 14.5
+Diem thi khoi khoa hoc xa hoi: 0
+Diem tong: 34.35
+
+BD1200012
+Tran Thi Thuy Tien
+Diem thi khoi khoa hoc tu nhien: 13.75
+Diem thi khoi khoa hoc xa hoi: 20.75
+Diem tong: 50.65
+
+BD1200013
+Le Bao Minh
+Diem thi khoi khoa hoc tu nhien: 0
+Diem thi khoi khoa hoc xa hoi: 2.75
+Diem tong: 10.55
+
+BD1200014
+Nguyen Thi Phuong Hang
+Diem thi khoi khoa hoc tu nhien: 8.75
+Diem thi khoi khoa hoc xa hoi: 17
+Diem tong: 37.15
+
+BD1200015
+Pham Thi Nhung
+Diem thi khoi khoa hoc tu nhien: 0
+Diem thi khoi khoa hoc xa hoi: 14.25
+Diem tong: 27.95
+
+BD1200016
+Nguyen Thi Da Thao
+Diem thi khoi khoa hoc tu nhien: 18.5
+Diem thi khoi khoa hoc xa hoi: 0
+Diem tong: 36.25
+
